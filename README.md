@@ -18,6 +18,11 @@
 
 These scripts look great for your MOTDS on Arch Linux systems.
 
+
+You need the pacman-contrib package for checkupdates
+
+    pacman -S pacman-contrib 
+
 You can see the [Installation Guide](https://github.com/lfelipe1501/Arch-MOTD/wiki/Installation-Guide) in the [WIKI](https://github.com/lfelipe1501/Arch-MOTD/wiki) session
 
 And also how these [MOTD's look](https://github.com/lfelipe1501/Arch-MOTD/wiki/MOTD-captures)
